@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata xml:lang="en"><Esri><CreaDate>20260617</CreaDate><CreaTime>12113100</CreaTime><ArcGISFormat>1.0</ArcGISFormat><SyncOnce>TRUE</SyncOnce><DataProperties><lineage><Process ToolSource="c:\program files (x86)\arcgis\desktop10.8\ArcToolbox\Toolboxes\Spatial Analyst Tools.tbx\Reclassify" Date="20260617" Time="121131">Reclassify DEM_ghriss VALUE "586 963 5;963 1304 4;1304 1697 3;1697 2152 2;2152 3209 1" "C:\Users\LENOVO\Desktop\Projet SIG\Reclass\new_DEM\R_Elevation" DATA</Process></lineage></DataProperties></Esri></metadata>
