@@ -35,6 +35,26 @@ Le modèle s'appuie sur une hiérarchisation rigoureuse de **9 couches thématiq
 | **Distance aux Routes** | **4%** | $0 - 953\text{ m}$ | Accessibilité du chantier et réduction des coûts logistiques |
 
 ---
+## 📸 Galerie Cartographique & Résultats
+
+### 🔄 Synthèse de la Reclassification (Reclass)
+La figure ci-dessous représente la reclassification standardisée des 9 critères sur l'échelle d'aptitude de 1 à 5 :
+| Synthèse de Reclassification des Critères (Reclass) | Carte d'Aptitude Finale (Weighted Overlay) |
+| :---: | :---: |
+| ![Reclass Map](les%20maps/reclass.jpg) | ![Carte Finale](les%20maps/carte%20finale%20.jpg) |
+
+### 🗺️ Cartes Thématiques Détaillées
+| Zone d'Étude | Pente (Slope) | Élévation (Altitude) |
+| :---: | :---: | :---: |
+| ![Zone Étude](les%20maps/zone%20etude%20.jpg) | ![Slope](les%20maps/slope%201.jpg) | ![Elevation](les%20maps/Elevation.jpg) |
+
+| Ordre des Cours d'Eau | Densité de Drainage | Distance aux Oueds (Buffer) |
+| :---: | :---: | :---: |
+| ![Stream Order](les%20maps/stream%20order.jpg) | ![Drainage Density](les%20maps/drainage%20density.jpg) | ![Buffer](les%20maps/buffer%20.jpg) |
+
+| Précipitations Annuelles | Occupation du Sol (LULC) | Types de Sol | Distance aux Routes |
+| :---: | :---: | :---: | :---: |
+| ![Precipitations](les%20maps/Précipitations%20.jpg) | ![LULC](les%20maps/LULC%20.jpg) | ![Type de Sol](les%20maps/type%20de%20sol.jpg) | ![Routes](les%20maps/distance%20aux%20routes.jpg) |
 
 ## 📊 Aperçu des Cartes et Résultats
 
