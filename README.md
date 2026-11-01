@@ -39,9 +39,13 @@ Le modèle s'appuie sur une hiérarchisation rigoureuse de **9 couches thématiq
 
 ### 🔄 Synthèse de la Reclassification (Reclass)
 La figure ci-dessous représente la reclassification standardisée des 9 critères sur l'échelle d'aptitude de 1 à 5 :
-| Synthèse de Reclassification des Critères (Reclass) | Carte d'Aptitude Finale (Weighted Overlay) |
-| :---: | :---: |
-| ![Reclass Map](les%20maps/reclass.jpg) | ![Carte Finale](les%20maps/carte%20finale%20.jpg) |
+| Carte d'Aptitude Finale (Weighted Overlay) |
+| :---: |
+| ![Carte Finale](les%20maps/carte%20finale%20.jpg) |
+
+| Synthèse de Reclassification des Critères (Reclass)| 
+| :---: |
+| ![Reclass Map](les%20maps/reclass.jpg) |
 
 ### 🗺️ Cartes Thématiques Détaillées
 | Zone d'Implantation (2D / 3D) |
