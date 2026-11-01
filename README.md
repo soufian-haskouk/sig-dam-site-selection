@@ -58,7 +58,7 @@ La figure ci-dessous représente la reclassification standardisée des 9 critèr
 
 | Précipitations Annuelles | Occupation du Sol (LULC) | Distance aux Routes |
 | :---: | :---: | :---: |
-| ![Precipitations](les%20maps/Précipitations%20.jpg) | ![LULC](les%20maps/LULC%20.jpg) | ![Routes](les%20maps/distance%20aux%20routes.jpg) |
+| ![Precipitations](les%20maps/Precipitations%20.jpg) | ![LULC](les%20maps/LULC%20.jpg) | ![Routes](les%20maps/distance%20aux%20routes.jpg) |
 
 
 ---
