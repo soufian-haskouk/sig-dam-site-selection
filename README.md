@@ -17,16 +17,6 @@ En croisant **9 critères spatiaux** sous **ArcGIS 10.8** (topographiques, hydro
 
 ---
 
-## 👥 Équipe du Projet (Green Mapers)
-* **HASKOUK Soufian**
-* **AKAYOU Abdelhakim**
-* **AIT LAHCEN Haytam**
-* **ELMEKKAOUI Sara**
-* *Encadré par : Pr. AQNOUY Mourad*
-* *Établissement : FST Errachidia (Université Moulay Ismaïl)*
-* *Année Universitaire : 2025–2026*
-
----
 
 ## 🛠️ Critères & Pondération du Modèle (AHP / Weighted Overlay)
 
