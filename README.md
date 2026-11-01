@@ -44,32 +44,31 @@ La figure ci-dessous représente la reclassification standardisée des 9 critèr
 | ![Reclass Map](les%20maps/reclass.jpg) | ![Carte Finale](les%20maps/carte%20finale%20.jpg) |
 
 ### 🗺️ Cartes Thématiques Détaillées
-| Zone d'Étude | Pente (Slope) | Élévation (Altitude) |
-| :---: | :---: | :---: |
-| ![Zone Étude](les%20maps/zone%20etude%20.jpg) | ![Slope](les%20maps/slope%201.jpg) | ![Elevation](les%20maps/Elevation.jpg) |
+| Zone d'Implantation (2D / 3D) |
+| :---: |
+| ![Zone Implantation](les%20maps/zone%20etude%20.jpg) |
+
+| Pente (Slope) | Élévation (Altitude) | Types de Sol|
+| :---: | :---: |:---: |
+| ![Slope](les%20maps/slope%201.jpg) | ![Type de Sol](les%20maps/type%20de%20sol.jpg) | ![Elevation](les%20maps/Elevation.jpg) |
 
 | Ordre des Cours d'Eau | Densité de Drainage | Distance aux Oueds (Buffer) |
 | :---: | :---: | :---: |
 | ![Stream Order](les%20maps/stream%20order.jpg) | ![Drainage Density](les%20maps/drainage%20density.jpg) | ![Buffer](les%20maps/buffer%20.jpg) |
 
-| Précipitations Annuelles | Occupation du Sol (LULC) | Types de Sol | Distance aux Routes |
-| :---: | :---: | :---: | :---: |
-| ![Precipitations](les%20maps/Précipitations%20.jpg) | ![LULC](les%20maps/LULC%20.jpg) | ![Type de Sol](les%20maps/type%20de%20sol.jpg) | ![Routes](les%20maps/distance%20aux%20routes.jpg) |
+| Précipitations Annuelles | Occupation du Sol (LULC) | Distance aux Routes |
+| :---: | :---: | :---: |
+| ![Precipitations](les%20maps/Précipitations%20.jpg) | ![LULC](les%20maps/LULC%20.jpg) | ![Routes](les%20maps/distance%20aux%20routes.jpg) |
 
-## 📊 Aperçu des Cartes et Résultats
-
-| Carte d'Aptitude Finale | Zone d'Implantation (2D / 3D) |
-| :---: | :---: |
-| ![Carte Finale](les%20maps/carte%20finale%20.jpg) | ![Zone Implantation](les%20maps/zone%20etude%20.jpg) |
 
 ---
 
 ## ⚙️ Méthodologie & Chaîne de Traitement SIG
 
-1. **Pré-traitement Hydrologique (DEM 30m) :** Remplissage des dépressions (*Fill*), calcul de la direction d'écoulement (*Flow Direction*), du flux cumulé (*Flow Accumulation*) et extraction du réseau hydrographique majeur (Seuil > 1000)[cite: 42].
-2. **Génération & Reclassification des Critères :** Standardisation de toutes les couches sur une échelle d'aptitude commune de **1 à 5** (où 5 représente l'aptitude maximale/idéal)[cite: 42].
+1. **Pré-traitement Hydrologique (DEM 30m) :** Remplissage des dépressions (*Fill*), calcul de la direction d'écoulement (*Flow Direction*), du flux cumulé (*Flow Accumulation*) et extraction du réseau hydrographique majeur (Seuil > 1000)
+2. **Génération & Reclassification des Critères :** Standardisation de toutes les couches sur une échelle d'aptitude commune de **1 à 5** (où 5 représente l'aptitude maximale/idéal)
 3. **Analyse Multicritère (*Weighted Overlay*) :** Combinaison linéaire pondérée des 9 couches raster sous ArcGIS 10.8.
-4. **Validation :** Confrontation des résultats avec les barrages existants et planifiés dans la région de Drâa-Tafilalet[cite: 18].
+4. **Validation :** Confrontation des résultats avec les barrages existants et planifiés dans la région de Drâa-Tafilalet
 
 ---
 
