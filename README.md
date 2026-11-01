@@ -4,7 +4,7 @@
 ![Master](https://img.shields.io/badge/Master-SIDI-orange)
 ![GIS](https://img.shields.io/badge/Domain-GIS%20%26%20Multi--Criteria-blue?style=for-the-badge&logo=arcgis)
 ![Methodology](https://img.shields.io/badge/Methodology-AHP%20%2F%20Saaty-green?style=for-the-badge)
-![License](https://img.shields.io/badge/License-All%20Rights%20Reserved-red?style=for-the-badge)
+![License](https://img.shields.io/badge/License-All%20Rights%20Reserved-red)
 
 > **Projet académique réalisé dans le cadre du Master SIDI (Systèmes d'Information Décisionnels et Imagerie) - FST Errachidia, combinant les Systèmes d'Information Géographique (SIG) et la méthode multicritère AHP pour l'optimisation du choix des sites de barrages dans le bassin versant de l'Oued Ghris (Drâa-Tafilalet, Maroc).**
 
