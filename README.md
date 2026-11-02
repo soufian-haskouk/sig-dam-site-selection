@@ -80,6 +80,14 @@ La figure ci-dessous représente la reclassification standardisée des 9 critèr
 * **Langage / Outils :** Modélisation spatiale (ModelBuilder), Traitement raster et vectoriel.
 * **Système de Coordonnées :** WGS 1984 UTM Zone 30N (Projection métrique indispensable pour les calculs de distance et de surface).
 
+## 🔄 Résumé du Workflow Technique
+1. **Correction géométrique :** Reprojection du MNT géographique en coordonnées métriques (UTM Zone 30N).
+2. **Analyse Hydrologique :** Correction des dépressions (*Fill*), calcul des directions et flux d'accumulation (*Flow Acc*), puis extraction du réseau hydrographique principal.
+3. **Normalisation :** Reclassification de l'ensemble des 9 critères sur une échelle standardisée de **1 à 5**.
+4. **Pondération AHP :** Attribution des poids relatifs aux critères selon la matrice de Saaty.
+5. **Superposition Pondérée (*Weighted Overlay*) :** Génération de la carte d'adéquation globale finale et identification des sites prioritaires (ex: région de Tidighoust).
+
+   
 ## 📂 Structure du Dépôt (Repository)
 
 ```text
