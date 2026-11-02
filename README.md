@@ -65,6 +65,10 @@ La figure ci-dessous représente la reclassification standardisée des 9 critèr
 | ![Precipitations](les%20maps/Precipitations%20.jpg) | ![LULC](les%20maps/LULC%20.jpg) | ![Routes](les%20maps/distance%20aux%20routes.jpg) |
 
 
+### 📐 Méthodologie & Site d'Implantation (Tidighoust)
+| Schéma Méthodologique | Site du Barrage (Tidighoust - 2D / 3D) |
+| :---: | :---: |
+| ![Méthodologie](les%20maps/methodologie.png) | ![Choix Tidighoust](les%20maps/choix_tdighoust.jpeg) |
 ---
 
 ## ⚙️ Méthodologie & Chaîne de Traitement SIG
