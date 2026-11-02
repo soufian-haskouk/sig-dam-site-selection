@@ -87,7 +87,12 @@ La figure ci-dessous représente la reclassification standardisée des 9 critèr
 4. **Pondération AHP :** Attribution des poids relatifs aux critères selon la matrice de Saaty.
 5. **Superposition Pondérée (*Weighted Overlay*) :** Génération de la carte d'adéquation globale finale et identification des sites prioritaires (ex: région de Tidighoust).
 
-   
+ ## 🚀 Perspectives & Améliorations Futures
+* **Analyse Géotechnique in-situ :** Validation par des données de sondages mécaniques et essais de perméabilité de terrain.
+* **Modélisation Hydrologique Avancée :** Couplage avec le modèle *SCS-CN* ou *HEC-HMS* pour l'estimation précise des débits de crues.
+* **Étude d'Impact Socio-Économique :** Intégration de l'analyse multicritère de vulnérabilité des populations et des périmètres irrigués en aval.
+
+  
 ## 📂 Structure du Dépôt (Repository)
 
 ```text
