@@ -74,6 +74,14 @@ La figure ci-dessous représente la reclassification standardisée des 9 critèr
 3. **Analyse Multicritère (*Weighted Overlay*) :** Combinaison linéaire pondérée des 9 couches raster sous ArcGIS 10.8.
 4. **Validation :** Confrontation des résultats avec les barrages existants et planifiés dans la région de Drâa-Tafilalet
 
+## 🔄 Schéma Méthodologique du Modèle
+Le schéma ci-dessous résume la chaîne globale d'intégration spatiale des critères sous ArcGIS et l'application de la méthode AHP :
+
+<p align="center">
+  <img src="DATA/schema.jpeg" alt="Schéma Méthodologique SIG-AHP" width="85%">
+</p>
+
+---
 ---
 ## 💻 Prérequis & Logiciels Utilisés
 * **Logiciel SIG :** ArcGIS 10.8 (Extensions *Spatial Analyst* et *Hydrology* activées).
