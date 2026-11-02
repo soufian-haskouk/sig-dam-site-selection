@@ -75,6 +75,10 @@ La figure ci-dessous représente la reclassification standardisée des 9 critèr
 4. **Validation :** Confrontation des résultats avec les barrages existants et planifiés dans la région de Drâa-Tafilalet
 
 ---
+## 💻 Prérequis & Logiciels Utilisés
+* **Logiciel SIG :** ArcGIS 10.8 (Extensions *Spatial Analyst* et *Hydrology* activées).
+* **Langage / Outils :** Modélisation spatiale (ModelBuilder), Traitement raster et vectoriel.
+* **Système de Coordonnées :** WGS 1984 UTM Zone 30N (Projection métrique indispensable pour les calculs de distance et de surface).
 
 ## 📂 Structure du Dépôt (Repository)
 
